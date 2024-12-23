@@ -69,7 +69,16 @@ More information about the dataset can be found [here](https://www.kaggle.com/c/
   Well-documented and visualized analysis with explanations for each step.  
 
 ---
+## 📈 Visualizations
+![image](https://github.com/user-attachments/assets/ffbc6f1a-84dc-450a-a956-a2c388ea451c)
 
+![image](https://github.com/user-attachments/assets/c6cc7ae6-537a-4c38-898d-a6a6ced97b86)
+![image](https://github.com/user-attachments/assets/3f6bc19d-807f-4a16-ba4e-3a6440e02064)
+![image](https://github.com/user-attachments/assets/2effe97b-4ca4-4bac-aacf-ab86018a80d4)
+![image](https://github.com/user-attachments/assets/6aedc3cb-2c97-4d8d-899f-59386367ab06)
+
+
+---
 ## 📈 Results  
 
 - **Training Loss Convergence:**  
