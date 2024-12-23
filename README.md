@@ -1,4 +1,4 @@
-# Deep Learning Projects
+# 🧠 Deep Learning Projects: Building Intelligent Models from Scratch 🚀
 
 
 ![image](https://github.com/user-attachments/assets/60ef079f-335b-4df7-85bf-ce7d848b7d8c)
