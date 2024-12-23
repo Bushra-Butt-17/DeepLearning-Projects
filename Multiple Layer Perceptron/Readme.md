@@ -58,8 +58,9 @@ MLP-Planar-Data-Classification/
 
 - **Optimizer:** Gradient Descent 🚴‍♂️  
   **Gradient descent** updates the model's weights and biases by calculating gradients of the loss function, minimizing the error iteratively during training.
+  
   ![sgd_bad](https://github.com/user-attachments/assets/f5e95ff2-b550-4fc2-b700-6c1faa64ea52)
-![sgd](https://github.com/user-attachments/assets/eddee2ec-99e6-4faf-b7aa-0bf0df27465a)
+  ![sgd](https://github.com/user-attachments/assets/eddee2ec-99e6-4faf-b7aa-0bf0df27465a)
 
 
 - **Evaluation Metrics:** Accuracy & Visualizations 📈  
@@ -77,11 +78,11 @@ MLP-Planar-Data-Classification/
 
 
   ![image](https://github.com/user-attachments/assets/243ea97d-28da-48fb-be94-74b437bdcd34)
-![image](https://github.com/user-attachments/assets/21edb3c3-a8f3-4310-8cb8-6905316455f2)
-![image](https://github.com/user-attachments/assets/cf3b4c57-5ffb-4103-baff-dca53db1402b)
+  ![image](https://github.com/user-attachments/assets/21edb3c3-a8f3-4310-8cb8-6905316455f2)
+  ![image](https://github.com/user-attachments/assets/cf3b4c57-5ffb-4103-baff-dca53db1402b)
 
 
-![image](https://github.com/user-attachments/assets/c55e4e88-95d4-453f-a32c-0d1862c9e1cb)
+  ![image](https://github.com/user-attachments/assets/c55e4e88-95d4-453f-a32c-0d1862c9e1cb)
 
 ---
 
