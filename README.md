@@ -1,4 +1,4 @@
-# DeepLearning-Projects
+# Deep Learning Projects
 
 
 
@@ -48,3 +48,28 @@ The project is organized as follows:
 👉 **[Explore the Full Project](https://github.com/Bushra-Butt-17/DeepLearning-Projects/tree/main/Linear-Regression-with-GD)**  
 
 Feel free to check out the directory structure, dive into the notebook, and explore how linear regression works with Gradient Descent! 🚀
+
+---
+# 🐾 Logistic Regression with Neural Network: Cat Classifier  
+
+## 🚀 Overview  
+Classify 🐱 vs. 🐾 (non-cats) using **Logistic Regression** implemented from scratch. Understand core concepts like **forward propagation**, **backpropagation**, and **optimization**.  
+
+## 🗂️ Structure  
+- **`datasets/`**: Training & testing images.  
+- **`Logistic_Regression_with_Neural_Network.ipynb`**: Main notebook.  
+
+## 🔧 Requirements  
+- `numpy`, `matplotlib`, `PIL`, `scikit-learn`  
+
+## 🧠 Steps  
+1. **Data Preprocessing**: Flatten & normalize images.  
+2. **Training**: Update weights using gradient descent.  
+3. **Evaluation**: Analyze accuracy & confusion matrix.  
+
+## 📊 Results  
+Evaluate performance with metrics like accuracy and visualize results.  
+
+## 🎯 Conclusion  
+Build a simple yet effective neural network to classify cats while learning foundational ML concepts!
+👉 **[Explore the Full Project](https://github.com/Bushra-Butt-17/DeepLearning-Projects/tree/main/Logistic%20Regression)**  
