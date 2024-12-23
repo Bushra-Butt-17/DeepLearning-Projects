@@ -74,3 +74,35 @@ Evaluate performance with metrics like accuracy and visualize results.
 Build a simple yet effective neural network to classify cats while learning foundational ML concepts!
 
 👉 **[Explore the Full Project](https://github.com/Bushra-Butt-17/DeepLearning-Projects/tree/main/Logistic%20Regression)**  
+---
+
+# 🚀 **MLP Planar Data Classification**
+
+---
+
+This project demonstrates the power of **Multi-Layer Perceptron (MLP)** in classifying **planar data**, showcasing how neural networks can solve problems involving non-linearly separable datasets. With the help of **gradient descent optimization**, the MLP learns to create complex decision boundaries to classify the data points effectively.
+
+- **Key Features** ✨:
+  - **Planar Data Classification** using MLP 🤖: A hands-on approach to solving non-linearly separable classification tasks.
+  - **Gradient Descent Optimization** 🔄: The model learns by minimizing the binary cross-entropy loss function.
+  - **Intuitive Visualizations** 📊: Visualize the training process with plots like the decision boundary, loss curve, and accuracy progression, stored in the `Visualizations/` directory.
+  - **Step-by-Step Implementation** 📝: Detailed notebook with clear code comments for an educational understanding of MLP training.
+
+- **Technical Insights** ⚙️:
+  - **Activation Function**: Sigmoid 🟢
+  - **Loss Function**: Binary Cross-Entropy 📉
+  - **Optimizer**: Gradient Descent 🚴‍♂️
+  - **Metrics**: Accuracy 📈 and visualized decision boundaries for model evaluation.
+
+- **Directory Structure** 📂:
+  - **Main Notebook**: `MLP-Planar-Data-Classification.ipynb` 📝, where all the implementation takes place.
+  - **Visualizations Directory**: Contains key plots to track model performance, such as:
+    - **Decision Boundary** 🔵🟠
+    - **Loss Curve** 📉
+    - **Accuracy Progression** 📈
+
+- **Contributing** 🤝: Contributions are encouraged! Fork the repo, submit issues, or create pull requests for improvements and enhancements.
+
+- **Contact** 📧: For any questions or feedback, feel free to reach out!
+
+--- 
