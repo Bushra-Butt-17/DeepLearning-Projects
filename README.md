@@ -74,6 +74,7 @@ Evaluate performance with metrics like accuracy and visualize results.
 Build a simple yet effective neural network to classify cats while learning foundational ML concepts!
 
 👉 **[Explore the Full Project](https://github.com/Bushra-Butt-17/DeepLearning-Projects/tree/main/Logistic%20Regression)**  
+
 ---
 
 # 🚀 **MLP Planar Data Classification**
@@ -104,5 +105,8 @@ This project demonstrates the power of **Multi-Layer Perceptron (MLP)** in class
 - **Contributing** 🤝: Contributions are encouraged! Fork the repo, submit issues, or create pull requests for improvements and enhancements.
 
 - **Contact** 📧: For any questions or feedback, feel free to reach out!
+
+👉 **[Explore the Full Project](https://github.com/Bushra-Butt-17/DeepLearning-Projects/tree/main/Multiple%20Layer%20Perceptron)**  
+
 
 --- 
