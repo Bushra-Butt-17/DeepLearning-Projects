@@ -167,7 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Feel free to reach out for any questions or feedback via email at [your.email@example.com](mailto:bsdsf21m020@pucit.edu.pk).
+Feel free to reach out for any questions or feedback via email at bsdsf21m020@pucit.edu.pk(mailto:bsdsf21m020@pucit.edu.pk).
 
 ---
 
