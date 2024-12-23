@@ -72,4 +72,5 @@ Evaluate performance with metrics like accuracy and visualize results.
 
 ## 🎯 Conclusion  
 Build a simple yet effective neural network to classify cats while learning foundational ML concepts!
+
 👉 **[Explore the Full Project](https://github.com/Bushra-Butt-17/DeepLearning-Projects/tree/main/Logistic%20Regression)**  
