@@ -3,7 +3,6 @@
 
 
 
-Here’s the updated summary with emojis included:
 
 ---
 
