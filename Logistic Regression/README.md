@@ -41,7 +41,7 @@ To run this project, you need the following Python libraries:
 
 ## 🧠 Model Architecture
 <div align="center">
-<img width="518" alt="LogReg_kiank" src="https://github.com/user-attachments/assets/7a854c33-0331-4151-97a0-65426950d460" />
+<img width="100%" alt="LogReg_kiank" src="https://github.com/user-attachments/assets/7a854c33-0331-4151-97a0-65426950d460" />
 </div>
 
 This neural network for logistic regression is implemented from scratch using the following steps:
