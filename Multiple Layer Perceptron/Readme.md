@@ -62,9 +62,8 @@ MLP-Planar-Data-Classification/
 - **Evaluation Metrics:** Accuracy & Visualizations 📈  
   The model’s performance is evaluated based on accuracy and visualizations of the decision boundary and loss curve.
 <img width="1182" alt="grad_summary" src="https://github.com/user-attachments/assets/792c4cd9-4741-4796-8a9c-e6b15230b34e" />
-<img width="649" alt="classification_kiank" src="https://github.com/user-attachments/assets/7e6853cf-a942-4d95-857c-dab2184b85b8" />
-![sgd_bad](https://github.com/user-attachments/assets/f5e95ff2-b550-4fc2-b700-6c1faa64ea52)
-![sgd](https://github.com/user-attachments/assets/eddee2ec-99e6-4faf-b7aa-0bf0df27465a)
+<img width="1182" alt="classification_kiank" src="https://github.com/user-attachments/assets/7e6853cf-a942-4d95-857c-dab2184b85b8" />
+
 ---
 
 ## 📷 **Sample Visualizations**  
