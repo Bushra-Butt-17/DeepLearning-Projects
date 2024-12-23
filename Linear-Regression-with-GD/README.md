@@ -3,6 +3,8 @@
 ---
 
 # 🏠 Ames Housing Price Prediction: Linear Regression with Gradient Descent  
+![image](https://github.com/user-attachments/assets/06b933ca-b051-4053-853d-c7bad76baef7)
+
 
 This project demonstrates the implementation of **Linear Regression** from scratch using **Gradient Descent** to predict housing prices in Ames, Iowa. The analysis is based on the famous **Ames Housing Dataset**, a well-known dataset in the Data Science and Machine Learning community.
 
