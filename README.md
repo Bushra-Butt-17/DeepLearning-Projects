@@ -1,7 +1,7 @@
 # Deep Learning Projects
 
 
-<img width="100%" src="https://github.com/user-attachments/assets/628c2e96-7b8c-4043-92af-84786a555f4d">
+![image](https://github.com/user-attachments/assets/60ef079f-335b-4df7-85bf-ce7d848b7d8c)
 
 
 
