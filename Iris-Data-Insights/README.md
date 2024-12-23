@@ -1,8 +1,13 @@
+# Data Analysis and Visualization with Python 📊🐍
+
+---
+
 ![image](https://github.com/user-attachments/assets/ac24527d-34dd-444c-b5b8-bf6ff09e215b)
 
 ---
 
 # Data Analysis and Visualization with Python 📊🐍
+
 
 Welcome to the **Data Analysis and Visualization with Python** project! This repository contains a Jupyter notebook that demonstrates how to perform data analysis and create visualizations using Python’s powerful libraries. The dataset used in this project is built-in and does not require external files.
 
