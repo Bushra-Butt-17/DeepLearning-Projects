@@ -204,3 +204,37 @@ Feel free to reach out for any questions or feedback via email at bsdsf21m020@pu
 
 ---
 
+<h4>Observations from the Plots Regarding the Differences Between Species</h4>
+<ul>
+  <li><strong>Histogram of Sepal Length</strong>:
+    <ul>
+      <li>The histogram indicates that the distribution of sepal lengths varies among species. Setosa generally has shorter sepal lengths, with a distinct peak, suggesting that these flowers are more consistent in size.</li>
+      <li>Versicolor and Virginica exhibit broader distributions with longer sepal lengths, but Virginica tends to have a slightly higher average sepal length than Versicolor.</li>
+      <li>There is minimal overlap between Setosa and the other species, indicating that sepal length could be a distinguishing feature for Setosa.</li>
+    </ul>
+  </li>
+
+  <li><strong>Scatter Plot of Sepal Length vs. Sepal Width</strong>:
+    <ul>
+      <li>The scatter plot shows a clear clustering of Setosa, characterized by shorter sepal lengths and wider sepal widths compared to the other two species.</li>
+      <li>Versicolor and Virginica overlap more in this scatter plot, but Virginica generally has longer sepals with a narrower spread in sepal width.</li>
+      <li>This plot suggests that Setosa is easily distinguishable from the other species, while Versicolor and Virginica have some degree of overlap in terms of sepal dimensions.</li>
+    </ul>
+  </li>
+
+  <li><strong>Boxplot of Petal Length by Species</strong>:
+    <ul>
+      <li>The boxplot reveals that Setosa has the smallest petal lengths, with a tight distribution and no visible outliers. This consistent range supports the notion that Setosa is quite distinct in petal length.</li>
+      <li>Versicolor and Virginica both have wider distributions for petal length, with Virginica generally showing longer petal lengths. This plot also reveals some overlap between the two species.</li>
+      <li>The lack of overlap between Setosa and the other two species in petal length highlights that this feature can be a key differentiator for Setosa.</li>
+    </ul>
+  </li>
+
+  <li><strong>Pairplot of All Numerical Columns</strong>:
+    <ul>
+      <li>The pairplot provides a comprehensive view of the relationships among numerical columns. It highlights that Setosa is generally distinct from Versicolor and Virginica, especially in terms of petal length and petal width.</li>
+      <li>Petal length and petal width seem to be the most distinguishing features, with clear separation between Setosa and the other two species.</li>
+      <li>Versicolor and Virginica show overlap in some scatter plots, but in general, Virginica has longer petals and sepals compared to Versicolor, indicating a trend of size differentiation between these two species.</li>
+    </ul>
+  </li>
+</ul>
