@@ -1,4 +1,5 @@
 # 🚀 Introduction to Planar Data Classification with MLP
+![image](https://github.com/user-attachments/assets/f3cc71a4-507a-4dc9-bfc5-4492a431dd5c)
 
 ---
 
