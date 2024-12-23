@@ -74,6 +74,15 @@ MLP-Planar-Data-Classification/
 - **Decision Boundary** 🔵🟠: Displays how the model divides the two classes in planar space.
 - **Accuracy Progression** 📈: Tracks the model’s accuracy at each epoch.
 
+
+
+  ![image](https://github.com/user-attachments/assets/243ea97d-28da-48fb-be94-74b437bdcd34)
+![image](https://github.com/user-attachments/assets/21edb3c3-a8f3-4310-8cb8-6905316455f2)
+![image](https://github.com/user-attachments/assets/cf3b4c57-5ffb-4103-baff-dca53db1402b)
+
+
+![image](https://github.com/user-attachments/assets/c55e4e88-95d4-453f-a32c-0d1862c9e1cb)
+
 ---
 
 ## 🤝 **Contributing**  
