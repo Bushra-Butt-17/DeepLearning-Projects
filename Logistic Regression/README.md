@@ -9,6 +9,10 @@
 ## 🚀 Project Overview
 In this project, we implement **Logistic Regression using a Neural Network** from scratch to classify images of cats and non-cats. The neural network is designed using basic concepts of forward propagation, backpropagation, and optimization, without relying on libraries like TensorFlow. This simple yet powerful approach allows us to understand the inner workings of a neural network while applying it to the task of image classification.
 
+<img width="609" alt="image1" src="https://github.com/user-attachments/assets/d2551cda-28bf-48ad-a63a-8fa37164ebde" />
+
+<img width="607" alt="image2" src="https://github.com/user-attachments/assets/fb3296d3-2f60-445c-96ec-0cee6ff788ee" />
+
 ## 🗂 Repository Structure
 
 The repository follows a clear directory structure:
