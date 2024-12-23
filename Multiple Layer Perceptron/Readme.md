@@ -77,9 +77,9 @@ MLP-Planar-Data-Classification/
 
 
 
-<img src="https://github.com/user-attachments/assets/243ea97d-28da-48fb-be94-74b437bdcd34" width="200" alt="Loss Curve"> 
-<img src="https://github.com/user-attachments/assets/21edb3c3-a8f3-4310-8cb8-6905316455f2" width="200" alt="Decision Boundary"> 
-<img src="https://github.com/user-attachments/assets/cf3b4c57-5ffb-4103-baff-dca53db1402b" width="200" alt="Accuracy Progression">
+<img src="https://github.com/user-attachments/assets/243ea97d-28da-48fb-be94-74b437bdcd34" width="350" alt="Loss Curve"> 
+<img src="https://github.com/user-attachments/assets/21edb3c3-a8f3-4310-8cb8-6905316455f2" width="350" alt="Decision Boundary"> 
+<img src="https://github.com/user-attachments/assets/cf3b4c57-5ffb-4103-baff-dca53db1402b" width="350" alt="Accuracy Progression">
 
   ![image](https://github.com/user-attachments/assets/c55e4e88-95d4-453f-a32c-0d1862c9e1cb)
 
