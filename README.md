@@ -28,7 +28,7 @@ This project demonstrates a deep learning model for classifying the **Iris** dat
 
 ---
 
-### 🏡 Linear Regression with Gradient Descent
+# 🏡 Linear Regression with Gradient Descent
 
 This project demonstrates how to build a linear regression model from scratch using the **Ames Housing Dataset** 🏘️. It includes:  
 
