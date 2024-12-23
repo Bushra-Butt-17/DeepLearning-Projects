@@ -119,7 +119,6 @@ plt.title('Correlation Heatmap')
 plt.show()
 ```
 
-![Correlation Heatmap](images/visualizations/correlation_heatmap.png)
 
 ---
 
@@ -138,7 +137,7 @@ plt.ylabel('Feature2')
 plt.show()
 ```
 
-![Scatter Plot](images/visualizations/scatter_plot.png)
+![image](https://github.com/user-attachments/assets/0893f148-a7a3-4487-9978-9257fdaa6241)
 
 ---
 
@@ -149,6 +148,13 @@ From the analysis and visualizations, the following insights were derived:
 - **Insight 1**: The `column_name` shows a skewed distribution, indicating a concentration of lower values.
 - **Insight 2**: The correlation heatmap reveals a strong relationship between `feature1` and `feature2`.
 - **Insight 3**: The scatter plot further supports the linear relationship between these two features.
+
+
+![image](https://github.com/user-attachments/assets/0fbfc587-64e8-411a-ba52-fe743fa03f8f)
+
+
+![image](https://github.com/user-attachments/assets/8ee427b1-6a84-4dbf-b760-f190002ff8a8)
+
 
 ---
 
