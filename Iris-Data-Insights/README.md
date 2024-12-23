@@ -139,21 +139,34 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/0893f148-a7a3-4487-9978-9257fdaa6241)
 
+
 ---
 
-## 📈 Insights & Results
+### Key Insights on Differences Between Iris Species
 
-From the analysis and visualizations, the following insights were derived:
+1. **Setosa's Distinct Sepal Length**:
+   - Setosa typically has shorter sepal lengths, with a tight distribution around a distinct peak, indicating more consistency in size. This makes sepal length a good differentiator for Setosa.
 
-- **Insight 1**: The `column_name` shows a skewed distribution, indicating a concentration of lower values.
-- **Insight 2**: The correlation heatmap reveals a strong relationship between `feature1` and `feature2`.
-- **Insight 3**: The scatter plot further supports the linear relationship between these two features.
+2. **Overlap Between Versicolor and Virginica**:
+   - Versicolor and Virginica have broader distributions of sepal length, with some overlap. However, Virginica generally has a higher average sepal length, suggesting a trend toward longer sepals.
 
+3. **Distinct Pattern in Sepal Length vs. Sepal Width**:
+   - The scatter plot shows clear clustering for Setosa, characterized by shorter sepal lengths and wider sepal widths. Versicolor and Virginica exhibit more overlap, with Virginica generally having longer sepals.
 
+4. **Petal Length Distribution**:
+   - Setosa has a narrow range of petal lengths, indicating consistent values. Versicolor and Virginica show broader distributions, with Virginica typically having longer petals.
+
+     ![image](https://github.com/user-attachments/assets/8ee427b1-6a84-4dbf-b760-f190002ff8a8)
+
+5. **Overall Differences in the Pairplot**:
+   - The pairplot highlights that Setosa is generally distinct from Versicolor and Virginica, especially in terms of petal length and petal width. Versicolor and Virginica overlap, but Virginica tends to have longer petals and sepals, suggesting subtle differentiation.
 ![image](https://github.com/user-attachments/assets/0fbfc587-64e8-411a-ba52-fe743fa03f8f)
 
+---
 
-![image](https://github.com/user-attachments/assets/8ee427b1-6a84-4dbf-b760-f190002ff8a8)
+
+
+
 
 
 ---
