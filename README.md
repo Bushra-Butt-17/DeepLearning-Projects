@@ -26,6 +26,8 @@ This project demonstrates a deep learning model for classifying the **Iris** dat
 
 - **Pairplot Overview** 🔠: The **pairplot** shows that Setosa is easily distinguishable from Versicolor and Virginica, especially in terms of petal length and width, while Versicolor and Virginica overlap slightly.  
 
+👉 **[Explore the Full Project](https://github.com/Bushra-Butt-17/DeepLearning-Projects/tree/main/Iris-Data-Insights)**  
+
 ---
 
 # 🏡 Linear Regression with Gradient Descent
@@ -43,6 +45,6 @@ The project is organized as follows:
 - **Dataset**: Located in the `data` directory as `Ames_Housing.csv`.  
 - **Visualizations**: Plots and images are stored in the `visualizations` directory, showcasing learning curves and insights.  
 
-👉 **[Explore the Full Project on GitHub](https://github.com/Bushra-Butt-17/DeepLearning-Projects/tree/main/Linear-Regression-with-GD)**  
+👉 **[Explore the Full Project](https://github.com/Bushra-Butt-17/DeepLearning-Projects/tree/main/Linear-Regression-with-GD)**  
 
 Feel free to check out the directory structure, dive into the notebook, and explore how linear regression works with Gradient Descent! 🚀
