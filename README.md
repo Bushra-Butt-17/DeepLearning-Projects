@@ -28,4 +28,3 @@ This project demonstrates a deep learning model for classifying the **Iris** dat
 
 ---
 
-This version integrates relevant emojis to enhance readability and add visual interest to the summary.
