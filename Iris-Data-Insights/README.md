@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e7966574-cdfd-4511-8dbe-97e2aa043018)
+![image](https://github.com/user-attachments/assets/ac24527d-34dd-444c-b5b8-bf6ff09e215b)
 
 ---
 
@@ -97,7 +97,7 @@ plt.title('Distribution of Column')
 plt.show()
 ```
 
-![Distribution Plot](images/visualizations/distribution_plot.png)
+![image](https://github.com/user-attachments/assets/4426b9c6-a79e-4f70-9d6a-93f2e92def4b)
 
 ---
 
